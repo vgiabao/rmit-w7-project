@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rmit-w7-project/static/css/main.affd6a5a.chunk.css",
+    "main.js": "/rmit-w7-project/static/js/main.58204211.chunk.js",
+    "main.js.map": "/rmit-w7-project/static/js/main.58204211.chunk.js.map",
+    "runtime-main.js": "/rmit-w7-project/static/js/runtime-main.995f5c5c.js",
+    "runtime-main.js.map": "/rmit-w7-project/static/js/runtime-main.995f5c5c.js.map",
+    "static/js/2.fe0e3956.chunk.js": "/rmit-w7-project/static/js/2.fe0e3956.chunk.js",
+    "static/js/2.fe0e3956.chunk.js.map": "/rmit-w7-project/static/js/2.fe0e3956.chunk.js.map",
+    "index.html": "/rmit-w7-project/index.html",
+    "precache-manifest.7f10f5b960fb7107235f8bb1ee7685a0.js": "/rmit-w7-project/precache-manifest.7f10f5b960fb7107235f8bb1ee7685a0.js",
+    "service-worker.js": "/rmit-w7-project/service-worker.js",
+    "static/css/main.affd6a5a.chunk.css.map": "/rmit-w7-project/static/css/main.affd6a5a.chunk.css.map",
+    "static/js/2.fe0e3956.chunk.js.LICENSE.txt": "/rmit-w7-project/static/js/2.fe0e3956.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995f5c5c.js",
+    "static/js/2.fe0e3956.chunk.js",
+    "static/css/main.affd6a5a.chunk.css",
+    "static/js/main.58204211.chunk.js"
+  ]
+}
